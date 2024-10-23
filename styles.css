@@ -34,3 +34,8 @@ a {
 a:hover {
     text-decoration: underline;
 }
+.article-content{
+    font-size: 1.5rem;
+}
+
+
